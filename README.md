@@ -1,2 +1,5 @@
-# Ola Mundo
- Meu Repositorio Git Hub
+# Olá, Mundo!
+ Meu Repositório Git Hub
+
+ Repositório criado quando comecei a estudar programação 
+
